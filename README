@@ -1,4 +1,4 @@
-jacks - Jackson module for Scala
+jacks - Jackson module for Scala, ported from https://github.com/wg/jacks
 
   Jacks provides a Jackson Module for reading and writing common Scala data
   types, including mutable & immutable collections, Option, Tuple, Symbol,
